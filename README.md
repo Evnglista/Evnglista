@@ -9,5 +9,5 @@ An aspiring software developer and incoming IT student passionate about building
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 ![DaVinci Resolve](https://img.shields.io/badge/davinci_resolve-%23233A51.svg?style=for-the-badge&logo=davinciresolve&logoColor=white)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
