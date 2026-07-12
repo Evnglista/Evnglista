@@ -1,9 +1,11 @@
 # 💫 About Me:
-👋 Hi, I'm Jade.<br><br>An aspiring software developer and incoming IT student passionate about building web applications and learning new technologies. Currently focused on HTML, CSS, JavaScript, and creating projects that strengthen my skills.
-
+👋 Hi, I'm Jade.<br><br>
+An aspiring software developer and incoming IT student passionate about building web applications and learning new technologies. Currently focused on HTML, CSS, JavaScript, and creating projects that strengthen my skills.
 
 # 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
